@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20b281dde7a2eb144be3d5b2d6181c46, type: 3}
+  m_Name: military_backpack
+  m_EditorClassIdentifier: 
+  id: 2
+  slug: military_backpack
+  itemType: 4
+  displayName: Military Backpack
+  description: For real soldiers.
+  amount: 1
+  maxAmount: 1
+  stackable: 0
+  onlyEquip: 1
+  prefab: {fileID: 1373743577766202, guid: 8e5ab959559eabb4785fe89e6282e57f, type: 2}
+  thumbnailSprite: {fileID: 0}
+  inspectSprite: {fileID: 0}
+  equipPos: {x: -0.15, y: 0, z: -0.125}
+  equipRot: {x: -180, y: 0, z: 90}
+  capacity: 100

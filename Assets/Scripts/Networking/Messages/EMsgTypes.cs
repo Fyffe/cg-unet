@@ -1,0 +1,15 @@
+﻿namespace LV
+{
+	public enum EMsgType
+    {
+        RECEIVE_PASSWORD = 1335,
+        RECEIVE_SERVERNAME = 1336,
+	    RECEIVE_HANDSHAKE = 1337,
+        RECEIVE_KICK = 1338,
+        RECEIVE_PLAYER = 1339,
+        RECEIVE_REMOVEPLAYER = 1340,
+        RECEIVE_SCENECHANGE = 1341,
+        RECEIVE_CLIENTLOADED = 1342,
+        SEND_TRANSFORM = 1343
+	}
+}

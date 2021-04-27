@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53392f4b136e05d4e95e7363d6307a00, type: 3}
+  m_Name: 762x39
+  m_EditorClassIdentifier: 
+  id: 1
+  slug: 762x39
+  itemType: 1
+  displayName: 7.62x39
+  description: 
+  amount: 30
+  maxAmount: 300
+  stackable: 1
+  onlyEquip: 0
+  prefab: {fileID: 1727607312948022, guid: cb81901dc9e38ea4489e2261687a95dc, type: 2}
+  thumbnailSprite: {fileID: 21300000, guid: fa77892f3345d6847b8e43e664b7b8e7, type: 3}
+  inspectSprite: {fileID: 21300000, guid: fa77892f3345d6847b8e43e664b7b8e7, type: 3}
+  bulletPrefab: {fileID: 1089140124383776, guid: c9fc659b6b00d644d9cedc73bc588136,
+    type: 2}

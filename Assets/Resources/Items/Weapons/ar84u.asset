@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad1fe034fbc89be43bf9e78802902a28, type: 3}
+  m_Name: ar84u
+  m_EditorClassIdentifier: 
+  id: 0
+  slug: ar84u
+  itemType: 2
+  displayName: AR-84U
+  description: Top notch soviet engineering.
+  amount: 1
+  maxAmount: 1
+  stackable: 0
+  onlyEquip: 1
+  prefab: {fileID: 1877281955866874, guid: c4d3f4d48015ffe45ba15e5564650c71, type: 2}
+  thumbnailSprite: {fileID: 21300000, guid: a8e5ef680c0341e4aaddd26d0b67c617, type: 3}
+  inspectSprite: {fileID: 21300000, guid: 27df6464c5b56cb4aa1d02bbc05481a0, type: 3}
+  weaponType: 1
+  equipSlot: 0
+  damage: 1
+  range: 300
+  vmEquipPos: {x: 0.225, y: -0.25, z: 0.3}
+  vmEquipRot: {x: -5, y: 0, z: 0}
+  vmAimPos: {x: 0, y: -0.14, z: 0.215}
+  vmAimRot: {x: 0, y: 0, z: 0}
+  rmEquipPos: {x: -0.1418, y: -0.0168, z: 0.0332}
+  rmEquipRot: {x: 0, y: -75, z: 187.524}
+  rmAimPos: {x: -0.1418, y: -0.0168, z: 0.0332}
+  rmAimRot: {x: 0, y: -75, z: 187.524}
+  equipBone: 1
+  fireRate: 500
+  ammoType: {fileID: 11400000, guid: c2e5e76fa73e49343a8a832bd196cab4, type: 2}
+  bulletSpeed: 250
+  maxAmmoPerMag: 30
+  aimFOV: 45
+  recoilXMin: -5
+  recoilXMax: 5
+  recoilYMin: 1
+  recoilYMax: 5
